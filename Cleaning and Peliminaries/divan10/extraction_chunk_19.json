@@ -1,0 +1,100 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 133,
+          "term": "վիմագրեր",
+          "context": "այն բնակավայրերը որտեղից պրակում վիմագրեր են ներառվել"
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 125,
+          "term": "տապանագիր",
+          "context": "սարմաշեն հյ գերեզմանոց ող 1241 տապանագիր 117 լմբատավանք"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 125,
+          "term": "տապանագիր",
+          "context": "158 նվիրատվական տապանագիր հիշատակագրություն խաչի ձոր"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 127,
+          "term": "տապանագիր",
+          "context": "հառիճավանք գերեզմանոց դ տապանագիր 93 հառինավանք"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 127,
+          "term": "տապանագիր",
+          "context": "լմբատավանք գերեզմանոց տապանագիր լմբատավանք գերեզմանոց"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 127,
+          "term": "տապանագիր",
+          "context": "լմբատավանք գերեզմանոց 01 տապանագիր է 7"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 127,
+          "term": "տապանագիր",
+          "context": "սարմաշեն գավիթ տապանագիր 1 53 1"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 128,
+          "term": "տապանագիր",
+          "context": "մարմաշեն հյ գերեզմանոց տապանագիր մարմաշեն խ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 129,
+          "term": "տապանագիր",
+          "context": "լանջիկ զարիաթ սրբատեղ դդ տապանագիր 10 լանջիկ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 129,
+          "term": "տապանագիր",
+          "context": "լանջիկ ձարիաթ սրբատեղ ռռդ տապանագիր լեռնակերտ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 129,
+          "term": "տապանագիր",
+          "context": "1851 տապանագիր հիշատակագրություն հիշատակագրություն"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 129,
+          "term": "տապանագիր",
+          "context": "ներքին գերեզմանոց ոյիգ1874 տապանագիր հառիճավանք"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 129,
+          "term": "տապանագիր",
+          "context": "1875 տապանագիր 187 սուսայելյան գերեզցմանոց"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 130,
+          "term": "տապանագիր",
+          "context": "ձույգաղբյուր գերեզմանոց տապանագիր 152 հոռոմ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 62,
+          "term": "Վիմագիր",
+          "context": "... վիմագրերը մեզ չհաջողվեց տեղում տեսնել քանի որ թանգարանն այլևս չի գործում ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 64,
+          "term": "Վիմագիր",
+          "context": "... հաջողվել է կարդալ կիսեղծ վիմագրի որոշ հատվածներ ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "Վիմագիր",
+          "context": "... վանստանի դ վիմագրերից մեկում վկայված է աւթախ հովհաննեսը ..."
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 63,
+          "term": "Տապանագիր",
+          "context": "... այս տապանագրի հատկապես թվականի եղիազարյանական վերծանությանն անդրադարձել է ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 63,
+          "term": "Տապանագիր",
+          "context": "... որ տապանագրի բավական պարզց գրված ոլը թվականը ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "Տապանագիր",
+          "context": "ծանոթ ըստ տապանագրի հանգուցյալներն են տամպատն ու աւթախը ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "Տապանագիր",
+          "context": "... ներկա տապանագիրն ըստէության փաստումէայսանձնանվան վաղագույն հիշատակությունը ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "Տապանագիր",
+          "context": "... տապանագրի սկզքի ... հավանաքար պետք է կարդալ սա կամ այս ..."
+        }
+      ]
+    },
+    {
+      "term": "Նվիրատվական արձանագրություն",
+      "definition": "Նվիրատուի արձանագրություն, նվիրվածքներով կամ կոնդակագրերով",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 67,
+          "term": "Նվիրատվական արձանագրություն",
+          "context": "... ըստ երևույթին նվիրատվական մի մեծ արձանագրության մասեր են ..."
+        }
+      ]
+    }
+  ]
+}

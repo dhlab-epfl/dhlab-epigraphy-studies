@@ -1,0 +1,22 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 216,
+          "term": "վիմագրության",
+          "context": "դիվան հայ վիմագրության պրակ եիրակի սարզ էջադրումը և"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 215,
+          "term": "վիմագրերի",
+          "context": "ժամանակագրական աղյուսակ հատորուս ընդգրկվված վիմագրերի 119"
+        }
+      ]
+    }
+  ]
+}

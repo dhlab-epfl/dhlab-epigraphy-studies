@@ -1,0 +1,46 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 14,
+          "term": "Վիմագիր",
+          "context": "աշխատության մեջ ընդգրկված է 54 վիմագիր16։ առավել ամբողջական է"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 14,
+          "term": "Վիմագիր",
+          "context": "և հրատարակվել էբագնայրի վանքից 50 վիմագիր ա կարապետյան"
+        }
+      ]
+    },
+    {
+      "term": "վիմական արձանագրություն",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 15,
+          "term": "վիմական արձանագրություն",
+          "context": "ավագյան վիմական արձանագրությունների բառաքննություն Երևան 1978։"
+        }
+      ]
+    },
+    {
+      "term": "Շինարարական արձանագրություն",
+      "definition": "Շինարարության կամ վերանորոգման արձանագրություններ",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 15,
+          "term": "Շինարարական արձանագրություն",
+          "context": "նիրակի չհոապարակված շինարարական արձա նագրություններ լրաբեր հաս գիտ 1967 2։"
+        }
+      ]
+    }
+  ]
+}

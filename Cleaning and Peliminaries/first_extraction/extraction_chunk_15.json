@@ -1,0 +1,52 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 95,
+          "term": "վիմագրում",
+          "context": "շինարարական վիմագրում եկեղեցու հիմնարկման թվականը կարդալով"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 95,
+          "term": "վիմագրերը",
+          "context": "և ձերծակայքի վիմագրերը տեղ չեն գտել ս բարխուդարյանի"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 96,
+          "term": "վիմագրում",
+          "context": "իսկ վիմագրում վկայված տարեթվերը 988 1029 վերաբերում են"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 96,
+          "term": "վիմագրությունները",
+          "context": "սարմաշենի վանքը և նրա վիմագրությունները էջմիածին 1957 ե"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 96,
+          "term": "վիմագրությունները",
+          "context": "գ եղիազարյան սարմաշենի վանքը և նրա վիմագրությունները 37"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 97,
+          "term": "վիմագրերը",
+          "context": "նպատակահարմար գտավ հրապարակել վանքի վիմագրերը թվով 17՝ քաղված"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 97,
+          "term": "վիմագրերը",
+          "context": "ամակառույցի վիմագրերը ներկայացված են օրբելու վերծանությունների"
+        }
+      ]
+    }
+  ]
+}

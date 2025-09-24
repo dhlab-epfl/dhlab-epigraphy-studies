@@ -1,0 +1,70 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 86,
+          "term": "Վիմագիր",
+          "context": "վիմագրերի առաջին գիտական հրատա րակությունն իրականացրել է հնագետ վիմագրագետ հուսիկ մելքոնյանը"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 86,
+          "term": "Վիմագիր",
+          "context": "գուսիկ մելքոնյան դարի վիմագրեր նոր կյանք գյուղից լէրաբեր հաս գիտ 1983 թ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 88,
+          "term": "Վիմագիր",
+          "context": "նախորդ հրատարակիչը վիմագրի ծանոթագրության մեջ առաջադրում է մեր կարծիքով"
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 84,
+          "term": "Տապանագիր",
+          "context": "կարծում ենք որ սա նախորդ տապանագրում հիշված անծնէ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 84,
+          "term": "Տապանագիր",
+          "context": "ծանոթ դատելով տապանագրից ննջեցյալները երկուսն են հայր և որդի"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 85,
+          "term": "Տապանագիր",
+          "context": "տապանագրերը հիմնականում դարերից են բա ցառությամբ մեկի որը վկայակոչում ենք"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 85,
+          "term": "Տապանագիր",
+          "context": "պարզապես տապանագիրը կազմվել է շիրմաքարերից մեկին"
+        }
+      ]
+    },
+    {
+      "term": "նվիրագիր",
+      "definition": "Նվիրատուի արձանագրություն, նվիրվածքներով կամ կոնդակագրերով",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 83,
+          "term": "նվիրագիր",
+          "context": "պիտի ավարտվեր նվիրագրերին հատուկ նզովքի բանածևով որից մի փոքր"
+        }
+      ]
+    }
+  ]
+}

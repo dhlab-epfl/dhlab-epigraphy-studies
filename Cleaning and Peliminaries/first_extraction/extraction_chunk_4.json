@@ -1,0 +1,28 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 21,
+          "term": "Վիմագիր",
+          "context": "առկա ն թվագիրը վիմագիրը համարել էանթվական սակայն"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 21,
+          "term": "Վիմագիր",
+          "context": "ցածը որակով։ վիմագիրը փաստում է որ ս կարապետի"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 21,
+          "term": "Վիմագիր",
+          "context": "հուշում է այն մասին որ վիմագիրն ավելի ուշ շրջանի"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 43,
+          "term": "վիմագրությունը",
+          "context": "... վանքը և նրա վիմագրությունը էջմիածին 1956 ը թ էջ 19 ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 43,
+          "term": "վիմագրերը",
+          "context": "... այդ վիմագրերը վերջերս հրատարակվեցին մատենադարանի ավագ ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 43,
+          "term": "վիմագրերը",
+          "context": "... տեր ստեփանյանը բոլոր վիմագրերը վերագրել է հառիճավանքին ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 43,
+          "term": "վիմագրերը",
+          "context": "... 6517 ձեռագրի հառիճավանքի վիմագրերը սույն հատորում կրում ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 43,
+          "term": "վիմագրերը",
+          "context": "... ատեր ստեփանյան վիմագրերը սատենադարանի ձեռագրերում վարձք ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 46,
+          "term": "վիմագրահավաքը",
+          "context": "... ս գեորգյանցը և քյուրտյանի վիմագրահավաքը ոխե ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 47,
+          "term": "վիմագրահավաքը",
+          "context": "... թյուրտյանի վիմագրահավաքը նվիրատուի անունը կարդացել է ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 47,
+          "term": "վիմագրերից",
+          "context": "... գավթի նվիրատվական վիմագրlerinden մեկում աշխարհբեկ քալանթար ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 48,
+          "term": "վիմագիրը",
+          "context": "... վիմագիրը փորագրված է բավական վերևում և որոշ ..."
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 44,
+          "term": "տապանագրի",
+          "context": "... գրիգոր առաջնորդի տապանագրի թվականի ուշադիր զննումը թույլ ..."
+        }
+      ]
+    },
+    {
+      "term": "Նվիրատվական արձանագրություն",
+      "definition": "Նվիրատուի արձանագրություն, նվիրվածքներով կամ կոնդակագրերով",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 47,
+          "term": "նվիրատվական",
+          "context": "... ությամբ նվիրատվական է սակայն հայտնի չէ թե ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 47,
+          "term": "նվիրատվական վիմագրերից",
+          "context": "... գավթի նվիրատվական վիմագրերից մեկում աշխարհբեկ քալանթար ..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 204,
+          "term": "Վիմագիր",
+          "context": "հովհաննես աւթախ հիշատակվածէ վանստանի վիմագրերից մեկում"
+        }
+      ]
+    },
+    {
+      "term": "նվիրագիր",
+      "definition": "Նվիրատուի արձանագրություն, նվիրվածքներով կամ կոնդակագրերով",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 201,
+          "term": "նվիրագիր",
+          "context": "աւագտիկին հիշատակված է բագնայրի վանքի մի նվիրագրում"
+        }
+      ]
+    },
+    {
+      "term": "փակագիր արձանագրություն",
+      "definition": "Գաղտնագիր, ծածկագիր արձանագրություններ",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 202,
+          "term": "փակագիր արձանագրություն",
+          "context": "գաւրգ հիշատակված է փակագրի ձևով"
+        }
+      ]
+    }
+  ]
+}

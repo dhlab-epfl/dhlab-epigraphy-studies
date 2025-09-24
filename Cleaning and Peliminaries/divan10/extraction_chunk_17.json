@@ -1,0 +1,52 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 106,
+          "term": "վիմագիրն",
+          "context": "հրատարակել է այս վիմագիրն ընդգրկող շինաքարերից միայն մեկին պահպանված"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 108,
+          "term": "վիմագրերը",
+          "context": "որբելին ինչպես և մենք այս և հաջորդ վիմագրերը տեղում չենք նկատել ուստի"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 112,
+          "term": "վիմագիրը",
+          "context": "ըստ այդմ է վիմագիրը կարելի է թվագրել 1270 1280 ական թվականներով"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 112,
+          "term": "վիմագիրը",
+          "context": "վիմագիրը տառաձևերով բավական նման է նախորդին կարծում ենք"
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 104,
+          "term": "տապանագիրը",
+          "context": "վաթականը բացակայում է։ տապանագիրը վերջում անավարտ էմնում կամ փորագրիչը"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 105,
+          "term": "տապանագիրը",
+          "context": "ծանոթ այս տապանագիրը մեզ չհաջողվեց գտնել ուստի"
+        }
+      ]
+    }
+  ]
+}

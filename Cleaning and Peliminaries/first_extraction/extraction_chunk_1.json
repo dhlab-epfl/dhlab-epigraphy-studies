@@ -1,0 +1,82 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 11,
+          "term": "վիմագիր",
+          "context": "շիրակի մարզ վիմագիր ժառանգությանն է նվիրված երջան"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 11,
+          "term": "վիմագրերի",
+          "context": "և վիմագրերի վերծանության գրեթե հիսնամյա հեռավորությամբ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 11,
+          "term": "վիմագրերը",
+          "context": "իրողությունները տեղում համեմատել վիմագրերը։ 2 ձեռքի տակ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 12,
+          "term": "վիմագրերը",
+          "context": "կամ անորակ լուսանկարված վիմագրերը։ պրակի հրատարակման"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 12,
+          "term": "վիմագրերի",
+          "context": "հետագա հրատարակություններով վիմագրերի պահպանվածությամբ և տեղում"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 12,
+          "term": "վիմագրեր",
+          "context": "պրակում ներառվել են նաև դ վիմագրեր։ 4 կազմողի կողմից"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 12,
+          "term": "վիմագրերը",
+          "context": "եթե խաչի ձորի վիմագրերը թե րևս չէին կարող"
+        }
+      ]
+    },
+    {
+      "term": "վիմական արձանագրություն",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 8,
+          "term": "վիմական արձանագրությունները",
+          "context": "մարզի վիմական արձանագրությունները։ նախատեսված է պատմա"
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 11,
+          "term": "անտապանագիր",
+          "context": "տապանաքարե րը անմշակ և անտապանագիր են մյուսները"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 11,
+          "term": "տապանագրեր",
+          "context": "մյուսները նույնպես միայն 19 րդ դారి տապանագրեր ունեն"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 18,
+          "term": "Վիմագիր",
+          "context": "ծանոթ վիմագիրը տիրամոր յոթ վերքը սրբապատկերի դեգերումների քարեղեն վկայությունն է"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 19,
+          "term": "Վիմագիր",
+          "context": "ծանոթ վիմագիրն ամփոփում էեկեղեցու շինարարության մանրամասները համածայն որոնց"
+        }
+      ]
+    }
+  ]
+}

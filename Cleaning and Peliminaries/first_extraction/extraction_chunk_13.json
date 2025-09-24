@@ -1,0 +1,64 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 86,
+          "term": "վիմագրերի",
+          "context": "... վիմագրերի առաջին գիտական հրատարակությունն իրականացրել է հնագետ ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 86,
+          "term": "վիմագրեր",
+          "context": "... գուսիկ մելքոնյան դարի վիմագրեր նոր կյանք գյուղից լէրաբեր ..."
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 84,
+          "term": "տապանագրում",
+          "context": "... կարծում ենք որ սա նախորդ տապանագրում հիշված անծնէ։"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 85,
+          "term": "տապանագրերը",
+          "context": "... քառանիստ կոթողի պատվանդան։ տապանագրերը հիմնականում դարերից են բացառությամբ մեկի ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 85,
+          "term": "տապանագրից",
+          "context": "... ծանոթ դատելով տապանագրից ննջեցյալները երկուսն են հայր և որդի ..."
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 85,
+          "term": "տապանագիրը",
+          "context": "... պարզապես տապանագիրը կազմվել է շիրմաքարերից մեկին։"
+        }
+      ]
+    },
+    {
+      "term": "նվիրագիր",
+      "definition": "Նվիրատուի արձանագրություն, նվիրվածքներով կամ կոնդակագրերով",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 83,
+          "term": "նվիրագրերին",
+          "context": "... արձանագրությունը պիտի ավարտվեր նվիրագրերին հատուկ նզովքի բանածևով որից ..."
+        }
+      ]
+    }
+  ]
+}

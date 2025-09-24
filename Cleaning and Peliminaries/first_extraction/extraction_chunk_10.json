@@ -1,0 +1,52 @@
+{
+  "terms": [
+    {
+      "term": "Վիմագիր",
+      "definition": "Ընդհանուր տերմին բոլոր քարե արձանագրությունների համար (Epigraph / petroglyph – a general term for all stone inscriptions)",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 62,
+          "term": "վիմագրերը",
+          "context": "ս բարխուդարյանը սրանք թվագրում է դարով։ վիմագրերը մեզ չհաջողվեց տեղում տեսնել քանի որ թանգարանն"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 64,
+          "term": "վիմագրի",
+          "context": "մեծ դժվարությամբ հաջողվել է կարդալ կիսեղծ վիմագրի որոշ հատվածներ աստանաւր անկեալ"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "վիմագրերից",
+          "context": "վանստանի դ վիմագրերից մեկում վկայված է աւթախ հովհաննեսը2 այս համատեքստում"
+        }
+      ]
+    },
+    {
+      "term": "Տապանագիր",
+      "definition": "Գերեզմանային արձանագրություն (գերեզմանոցներում, տապանաքարերի վրա) (Epitaph / epitaph inscription – grave inscription (in cemeteries, on tombstones))",
+      "extractions": [
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 63,
+          "term": "տապանագրի",
+          "context": "ծանոթ այս տապանագրի հատկապես թվականի եղիազարյանական վերծանությանն անդրադարձել է"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "տապանագիրն",
+          "context": "ներկա տապանագիրն ըստէության փաստումէայսանձնանվան վաղագույն հիշատակությունը"
+        },
+        {
+          "file_name": "Divan_Prak10",
+          "page_number": 65,
+          "term": "տապանագրի",
+          "context": "տապանագրի սկզքի ա ն հավանաքար պետք է կարդալ սա կամ"
+        }
+      ]
+    }
+  ]
+}
