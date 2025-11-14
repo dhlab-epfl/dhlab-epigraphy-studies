@@ -6,7 +6,10 @@ __pycache__/
 */.DS_Store
 # C extensions
 *.so
-
+best_model_epoch_1.pt
+best_model_epoch*
+best_model*
+corpus_inscription_terms.xlsx
 # Distribution / packaging
 .Python
 build/
