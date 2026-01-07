@@ -6,26 +6,30 @@ The project focuses on OCR-heavy, layout-complex historical sources and low-reso
 
 ## Repository Structure
 
-```
-.
-├── Generated_data/
-│   └── Model outputs, predictions, and GT-labeled results
-├── Inference/
-│   └── Inference.ipynb              # Run trained models on unseen data
-├── Notebooks/
-│   └── Incremental_exp.ipynb        # Experiments and evaluations
-├── dataset_formation/
-│   └── Dataset construction, IOB tagging, splits
-├── preprocessing/
-│   └── OCR cleaning, paragraph repair, sentence splitting
-├── images/
-│   └── Figures used for analysis and reporting
-├── corpus_inscription_terms.xlsx
-│   └── Expert-curated inscription terminology list
-├── .gitignore
-├── LICENSE
-└── README.md
-```
+- `Generated_data/`  
+  Model outputs, predictions, and GT-labeled results
+
+- `Inference/`  
+  Contains `Inference.ipynb` for running trained models on unseen data
+
+- `Notebooks/`  
+  Experimental notebooks (e.g. `Incremental_exp.ipynb`) for training and evaluation
+
+- `dataset_formation/`  
+  Dataset construction, IOB tagging, and train/dev/test splits
+
+- `preprocessing/`  
+  OCR cleaning, paragraph restructuring, and sentence splitting
+
+- `images/`  
+  Figures used for analysis and reporting
+
+- `corpus_inscription_terms.xlsx`  
+  Expert-curated list of Armenian inscription-type terminology
+
+- `.gitignore`  
+- `LICENSE`  
+- `README.md`  
 
 ## Main Features
 
