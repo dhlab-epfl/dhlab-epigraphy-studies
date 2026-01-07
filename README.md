@@ -13,7 +13,7 @@ The project focuses on OCR-heavy, layout-complex historical sources and low-reso
   Contains `Inference.ipynb` for running trained models on unseen data
 
 - `Notebooks/`  
-  Experimental notebooks (e.g. `Incremental_exp.ipynb`) for training and evaluation
+  Experimental notebooks for training and evaluation. This is an aggregation of all the work that has been done. Main Folder to look at.
 
 - `dataset_formation/`  
   Dataset construction, IOB tagging, and train/dev/test splits
@@ -27,9 +27,6 @@ The project focuses on OCR-heavy, layout-complex historical sources and low-reso
 - `corpus_inscription_terms.xlsx`  
   Expert-curated list of Armenian inscription-type terminology
 
-- `.gitignore`  
-- `LICENSE`  
-- `README.md`  
 
 ## Main Features
 
