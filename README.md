@@ -27,6 +27,9 @@ The project focuses on OCR-heavy, layout-complex historical sources and low-reso
 - `corpus_inscription_terms.xlsx`  
   Expert-curated list of Armenian inscription-type terminology
 
+- `progressive_final.pt`
+  Pt file for finetuned NER model   
+
 
 ## Main Features
 
